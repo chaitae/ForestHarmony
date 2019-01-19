@@ -1,0 +1,2 @@
+C:\data\Creative_Projects\Unity\MelodyMaiden\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\data\Creative_Projects\Unity\MelodyMaiden\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
